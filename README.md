@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braveleftji&show_icons=true&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braveleftji&show_icons=true&theme=great-gatsby" />
 </p>
